@@ -1,5 +1,4 @@
-Feature: Foo
-  Some Foo desciption, if you want
+Feature: GithubAPI Tests
 
   Scenario: Create User Project
     Given Configure create user 'rest-assured-test-project' project request
